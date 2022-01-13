@@ -1,0 +1,43 @@
+BODY{
+         FONT-FAMILY:SANS-SERIF;
+background-color:#4D88CA;
+}
+H1{
+     text-align:center;
+    color: black;
+    margin:30px 0 50px:
+}
+h2{
+     text-align:center;
+    color: red;
+    margin:30px 0 50px:
+}
+.bh{
+  text-align:center;
+  color:black;
+}
+.hh{
+    text-align:left;
+    color:RED;
+}
+.dd{
+  text-align:right;
+  color:black;
+}
+.SS{
+    text-align:center;
+    COLOR:black;
+}
+H3{
+   text-align:center;
+  margin:30px 0 50px:
+}
+
+.gallery img{
+   width: 300px;
+   padding:12px:
+   filter : grayscale(100%);
+   transition: Is;
+}
+
+
